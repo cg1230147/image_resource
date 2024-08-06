@@ -1,1 +1,1 @@
-# image_resource-
+# image_resource
